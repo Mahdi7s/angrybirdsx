@@ -4,7 +4,7 @@ To play the game, click on the About section link or download the project and op
 Have fun 🤗
 
 
-![alt text](https://github.com/Mahdi7s/angrybirdsx/raw/master/screens/1.jpg)
-![alt text](https://github.com/Mahdi7s/angrybirdsx/raw/master/screens/2.jpg)
-![alt text](https://github.com/Mahdi7s/angrybirdsx/raw/master/screens/3.jpg)
-![alt text](https://github.com/Mahdi7s/angrybirdsx/raw/master/screens/4.jpg)
+![alt text](https://github.com/Mahdi7s/angrybirdsx/raw/master/screens/1.png)
+![alt text](https://github.com/Mahdi7s/angrybirdsx/raw/master/screens/2.png)
+![alt text](https://github.com/Mahdi7s/angrybirdsx/raw/master/screens/3.png)
+![alt text](https://github.com/Mahdi7s/angrybirdsx/raw/master/screens/4.png)
